@@ -1,0 +1,37 @@
+body {
+  background-color: rgba(117, 190, 218, 0.5);
+    width: 50%;
+}
+
+h1{color: #66BFBF;
+    width: 50%;
+
+}
+h3{color: #66BFBF;
+    width: 50%;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: .1px;
+  width: 70%;
+}
+
+body {
+  margin: 0 auto;
+  align-content:center;
+  width: 50%;
+  font-family:"Merriweather", serif;
+}
+
+
+.top-cloud{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  height: 30%;
+  width: 50%;
+  border-radius: 30%;}
